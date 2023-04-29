@@ -3,6 +3,12 @@
 - 🌱 estudando Analise e desenvolvimento de sistemas/ Programação Full Stack
 - 📫 contate-me no email:  rpelais52@gmail.com
 
+Meu nome é Rodrigo, tenho 21 anos e estou em busca de adentrar no mercado de trabalho na área de trabalho com objetivo de me tornar um excelente desenvolvedor Full Stack.
+Neste momento possuo sólidos conhecimentos em HTML, CSS , JavaScript, Python, SQL, MySQL. 
+
+Apesar de estar no início da minha carreira como Full Stack, sou incansável na busca de novos conhecimentos e estou sempre pronto para aprender novas tecnologias necessárias para atender às demandas da empresa e trabalhar em grupo.
+
+Acredito que minhas habilidades e energia podem ser uma ótima adição para a sua equipe de desenvolvimento. Se você está procurando por um profissional dedicado, comprometido e com sede de conhecimento, pode acreditar em mim!!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
