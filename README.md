@@ -3,7 +3,7 @@
 - 🌱 estudando Analise e desenvolvimento de sistemas/ Programação Full Stack
 - 📫 contate-me no email:  rpelais52@gmail.com
 
-Tenho 21 anos e estou em busca de adentrar no mercado de trabalho na área de trabalho com objetivo de me tornar um excelente desenvolvedor Full Stack.
+Tenho 21 anos e estou em busca de adentrar no mercado de trabalho com objetivo de me tornar um excelente desenvolvedor Full Stack.
 Neste momento possuo sólidos conhecimentos em HTML, CSS , JavaScript, Python, SQL, MySQL. 
 
 Apesar de estar no início da minha carreira como Full Stack, sou incansável na busca de novos conhecimentos e estou sempre pronto para aprender novas tecnologias necessárias para atender às demandas da empresa e trabalhar em grupo.
@@ -22,7 +22,6 @@ Acredito que minhas habilidades e energia podem ser uma ótima adição para a s
  
 <div>
   <a href="https://www.instagram.com/rodrigopelaiss_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rpelais52@gmail.com" > <img src= "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-pelais-4bba57248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
