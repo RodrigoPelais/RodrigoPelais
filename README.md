@@ -1,9 +1,9 @@
 ### Olá, Meu nome é Rodrigo Pelais!
 
-- 🌱 estudando Analise e desenvolvimento de sistemas/ Programação Full Stack
+- 🌱 estudando Engenharia de Software/ Programação Full Stack
 - 📫 contate-me no email:  rpelais52@gmail.com
 
-Tenho 21 anos e estou em busca de adentrar no mercado de trabalho com objetivo de me tornar um excelente desenvolvedor Full Stack.
+Tenho 22 anos e estou em busca de adentrar no mercado de trabalho com objetivo de me tornar um excelente desenvolvedor Full Stack.
 Neste momento possuo sólidos conhecimentos em HTML, CSS , JavaScript, Python, SQL, MySQL. 
 
 Apesar de estar no início da minha carreira como Full Stack, sou incansável na busca de novos conhecimentos e estou sempre pronto para aprender novas tecnologias necessárias para atender às demandas da empresa e trabalhar em grupo.
